@@ -6,26 +6,11 @@ categories: [python, django, security]
 ---
 
 
-
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-Cras facilisis, ligula id sodales dignissim, ligula felis maximus metus, 
-nec malesuada odio ipsum ut mi. 
-<!--excerpt -->
-
-Quisque suscipit condimentum nisi sed ornare. 
-Ut dictum id massa et finibus. 
-Donec ut consequat massa. Aenean eget mauris quam. Sed ornare auctor sapien fringilla condimentum. 
-
-<div class="excerpt">
+<div>
     <h3>Recipe</h3>
 </div>
-</row>
-</div>
-</div>
-<div class="col-lg-6 col-sm-12 right split-cols">
-  <div class="content">
+<div>
+  <div>
     **Contents**
     * TOC
     {:toc}
