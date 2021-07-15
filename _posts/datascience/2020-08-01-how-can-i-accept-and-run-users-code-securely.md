@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "How can i accept and run user's code securely on my web app?"
-date:   2020-08-01 20:02:00 +0700
+date:   2021-07-15 20:02:00 +0700
 categories: [python, django, security]
 ---
 
-# Hi There
-I am working on a django based web app that takes python file as input which contains some function,
+We are working on a django based web app that takes python file as input which contains some function,
 then in backend i have some lists that are passed as parameters through the user's function,
 which will generate a single value output.
 The result generated will be used for some further computation.
