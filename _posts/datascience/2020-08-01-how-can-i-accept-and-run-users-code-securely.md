@@ -5,10 +5,6 @@ date:   2020-08-01 20:02:00 +0700
 categories: [python, django, security]
 ---
 
-**Contents**
-* TOC
-{:toc}
-
 # Hi There
 I am working on a django based web app that takes python file as input which contains some function,
 then in backend i have some lists that are passed as parameters through the user's function,
