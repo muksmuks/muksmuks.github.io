@@ -1,0 +1,10 @@
+[
+	{
+		"slug": "ml-explainability",
+		"name": "SHAP",
+		"image": "placeholder.jpg",
+		"url": "https://www.google.com",
+		"date": "Jul 2021",
+		"tags": ["Data Science","Explainability"]
+	}
+]

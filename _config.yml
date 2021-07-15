@@ -1,1 +1,51 @@
-theme: jekyll-theme-minimal
+title: Knowledge Graph
+description: Data Science | AI | Insurance
+author: Mukesh K
+github: https://github.com/tosingularity
+about: Data Scientist | Insurance Fraud
+disqus_shortname: tosingularity
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+  posts:
+    output: true
+    permalink: /posts/:title.html
+
+social:
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/kr-mukesh/"
+    - icon: fa-github
+      link: "https://github.com/tosingularity"
+
+share:
+  twitter_username: github.io
+  fb_appid: 1749788565247320
+
+urls:
+    - text: About Me
+      url: /about/
+    - text: My Projects
+      url: /projects/
+
+
+url: "https://tosingularity.github.io"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['development']
