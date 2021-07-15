@@ -20,17 +20,15 @@ Donec ut consequat massa. Aenean eget mauris quam. Sed ornare auctor sapien frin
 
 <div class="excerpt">
     <h3>Recipe</h3>
-    {{ page.excerpt }}
 </div>
-          </row>
+</row>
+</div>
+</div>
+<div class="col-lg-6 col-sm-12 right split-cols">
+  <div class="content">
+    **Contents**
+    * TOC
+    {:toc}
   </div>
-  </div>
-  <div class="col-lg-6 col-sm-12 right split-cols">
-      <div class="content">
-          <header class="major">
-              <h2>{{ page.title }}</h2>
-          </header>
-          {{content|remove_first: page.excerpt}}
-      </div>
 
 
