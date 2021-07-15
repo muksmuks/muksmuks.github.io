@@ -6,14 +6,13 @@ categories: [python, django, security]
 ---
 
 
+
+# Recipe
 <div>
-    <h3>Recipe</h3>
-</div>
-<div>
-  <div>
     **Contents**
     * TOC
     {:toc}
-  </div>
+  <div>
+      
 
 
