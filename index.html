@@ -18,25 +18,9 @@ layout: default
   </div>
 
   <div>
-  <div>Data Science</div>
+  <div>Pytorch</div>
   <ol class="posts"> 
-    {% for post in site.posts %}
-      {% if post.path contains 'datascience' %}
         <li><a href="{{ post.url }}">{{ post.title }}</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
-      {% endif %}
-    {% endfor %}  
   </ol>
   </div>
-  
-    <div>
-  <div>Deep Learning</div>
-  <ol class="posts">
-    {% for post in site.posts %}
-      {% if post.path contains 'deeplearning' %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
-      {% endif %}
-    {% endfor %}  
-  </ol>
-  </div>
-
 </div><!-- end #home -->
