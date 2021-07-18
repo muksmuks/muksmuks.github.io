@@ -12,4 +12,4 @@ My blogs are designed to be easy to follow. I avoid big leaps of thought. Any ti
 
 Instead of writing symbol soup, my goal is to make it easy for you to visualize these concepts. I also think we learn best by being able to recall something we already know, and examples make recall easier.
 
-<b>email: mukesh.kumar43585[at]gmail.com</b>
+<b>email</b>: mukesh.kumar43585[at]gmail.com
