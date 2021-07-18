@@ -5,11 +5,19 @@ layout: default
 <div id="home">
   <h1>{{ site.title }}</h1>
   <hr />
+  
+  <div>
+    <p>I’m a visual learner, and I really liked the illustrated style.</p>
+    
+    <p>My blogs are designed to be easy to follow. I avoid big leaps of thought. Any time a new concept is introduced, 
+        I explain it right away or tell you when I’ll explain it. Core concepts are reinforced with exercises
+        and multiple explanations so that you can check your assumptions andmake sure you’re following along.
+    </p>
+  </div>
 
   <div>
   <div>Data Science</div>
-  <ol class="posts">
-    
+  <ol class="posts"> 
     {% for post in site.posts %}
       {% if post.path contains 'datascience' %}
         <li><a href="{{ post.url }}">{{ post.title }}</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
@@ -21,7 +29,6 @@ layout: default
     <div>
   <div>Deep Learning</div>
   <ol class="posts">
-    
     {% for post in site.posts %}
       {% if post.path contains 'deeplearning' %}
         <li><a href="{{ post.url }}">{{ post.title }}</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
