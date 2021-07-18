@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Python Permutations"
-date:   2016-04-19 19:31:43 +0700
-categories: [python]
+title:  "Pytorch"
+date:   2021-07-18
+categories: [pytorch,deep learning]
 ---
 This simply how to implement the module of permutations in python.
 
