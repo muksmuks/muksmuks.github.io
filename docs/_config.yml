@@ -14,7 +14,9 @@ collections:
     permalink: /project/:path/
   posts:
     output: true
-    permalink: /posts/deeplearning_pytorch/:title.html
+    permalink: 
+     - /posts/deeplearning_pytorch/:title.html
+     - /posts/deeplearning/:title.html
 
 social:
     - icon: fa-linkedin
