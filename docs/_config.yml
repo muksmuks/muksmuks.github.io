@@ -49,3 +49,5 @@ compress_html:
   endings: all
   ignore:
     envs: ['development']
+    
+encoding: utf-8
