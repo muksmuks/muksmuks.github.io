@@ -50,4 +50,4 @@ compress_html:
   ignore:
     envs: ['development']
     
-encoding: utf-8
+encoding: "utf-8"
