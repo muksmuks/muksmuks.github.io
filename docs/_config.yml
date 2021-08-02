@@ -14,7 +14,7 @@ collections:
     permalink: /project/:path/
   posts:
     output: true
-    permalink: /posts/:title.html
+    permalink: /deeplearning_pytorch/posts/:title.html
 
 social:
     - icon: fa-linkedin
@@ -49,5 +49,3 @@ compress_html:
   endings: all
   ignore:
     envs: ['development']
-    
-encoding: "utf-8"
