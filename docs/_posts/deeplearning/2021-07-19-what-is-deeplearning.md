@@ -6,12 +6,6 @@ categories: [deeplearning]
 ---
 
 
-I am working on a django based web app that takes python file as input which contains some function,
-then in backend i have some lists that are passed as parameters through the user's function,
-which will generate a single value output.
-The result generated will be used for some further computation.
-
-
 Here is how the function inside the user's file look like :
 
 ```python
