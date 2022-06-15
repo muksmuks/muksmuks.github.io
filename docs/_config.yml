@@ -29,8 +29,8 @@ share:
 urls:
     - text: About Me
       url: /about/
-    - text: My Projects
-      url: /projects/
+    #- text: My Projects
+    #  url: /projects/
 
 
 url: "https://muksmuks.github.io"
